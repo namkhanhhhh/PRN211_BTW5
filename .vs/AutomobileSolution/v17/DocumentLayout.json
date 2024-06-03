@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|f:\\ky 5\\prn212\\automobilesolution\\prn211_btw5\\windowsformsapp1\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|solutionrelative:windowsformsapp1\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\windowsformsapp1\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|solutionrelative:windowsformsapp1\\frmcarmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\windowsformsapp1\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|solutionrelative:windowsformsapp1\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\windowsformsapp1\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC94AECD-2EE1-420D-916A-839C0A0F7F94}|WindowsFormsApp1\\AutomobileWinApp.csproj|solutionrelative:windowsformsapp1\\frmcardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCarManagement.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\WindowsFormsApp1\\frmCarManagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmCarManagement.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\WindowsFormsApp1\\frmCarManagement.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmCarManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:46:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCarManagement.cs [Design]",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\WindowsFormsApp1\\frmCarManagement.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmCarManagement.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\AutomobileSolution\\WindowsFormsApp1\\frmCarManagement.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\frmCarManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:16:28.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCarDetails.cs [Design]",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\WindowsFormsApp1\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmCarDetails.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\AutomobileSolution\\WindowsFormsApp1\\frmCarDetails.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\frmCarDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:03:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCarDetails.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\WindowsFormsApp1\\frmCarDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmCarDetails.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\AutomobileSolution\\PRN211_BTW5\\WindowsFormsApp1\\frmCarDetails.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frmCarDetails.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:03:59.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

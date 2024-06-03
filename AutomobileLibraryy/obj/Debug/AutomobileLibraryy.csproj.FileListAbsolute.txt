@@ -1,0 +1,6 @@
+F:\Ky 5\PRN212\AutomobileSolution\AutomobileLibraryy\bin\Debug\AutomobileLibraryy.dll
+F:\Ky 5\PRN212\AutomobileSolution\AutomobileLibraryy\bin\Debug\AutomobileLibraryy.pdb
+F:\Ky 5\PRN212\AutomobileSolution\AutomobileLibraryy\obj\Debug\AutomobileLibraryy.csproj.AssemblyReference.cache
+F:\Ky 5\PRN212\AutomobileSolution\AutomobileLibraryy\obj\Debug\AutomobileLibraryy.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\AutomobileSolution\AutomobileLibraryy\obj\Debug\AutomobileLibraryy.dll
+F:\Ky 5\PRN212\AutomobileSolution\AutomobileLibraryy\obj\Debug\AutomobileLibraryy.pdb

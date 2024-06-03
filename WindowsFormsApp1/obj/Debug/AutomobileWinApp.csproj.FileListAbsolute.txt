@@ -1,0 +1,14 @@
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\bin\Debug\AutomobileLibraryy.dll
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\bin\Debug\AutomobileLibraryy.pdb
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\AutomobileWinApp.csproj.AssemblyReference.cache
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\AutomobileWinApp.frmCarDetails.resources
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCarManagement.resources
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\AutomobileWinApp.csproj.GenerateResource.cache
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\AutomobileWinApp.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\Automobi.42224D16.Up2Date
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Ky 5\PRN212\AutomobileSolution\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
